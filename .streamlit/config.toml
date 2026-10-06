@@ -1,0 +1,12 @@
+[theme]
+primaryColor = "#005b96"           # Azul Técnico (segurança/equipotencialização)
+backgroundColor = "#121212"        # Preto Profundo (mais elegante que o cinza padrão)
+secondaryBackgroundColor = "#1e1e1e" # Cinza Estrutural
+textColor = "#e0e0e0"              # Branco suave (reduz fadiga visual)
+font = "monospace"
+
+[server]
+runOnSave = true
+
+[browser]
+gatherUsageStats = false
